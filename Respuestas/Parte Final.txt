@@ -1,0 +1,4 @@
+-Este juego consiste en cuanta capacidad de memoria y rapidez tienes para recordar los 
+objetos o palabras que se les esta pidiendo, principalmente la creacion de
+de este juego fue para ver las fallas ortograficas que tiene el participante y asi
+poder evitar la dislexia o el alzheimer.

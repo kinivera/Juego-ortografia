@@ -1,0 +1,13 @@
+Cuadrado
+Triangulo
+Circulo
+Rectangulo
+Rombo
+Hexágono
+Ovalo
+Trapecio
+Estrella
+Octagono
+Pentagono
+Punto
+Recta

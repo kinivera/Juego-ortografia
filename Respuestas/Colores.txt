@@ -1,0 +1,37 @@
+Negro
+Azul
+Marrón
+Gris
+Verde
+Narajana
+Rosa
+Purpura
+Rojo
+Blanco
+Amarillo
+Turquesa
+Salmon
+Lila
+Verde Oliva
+Verde Menta
+Borgoña
+Lavanda
+Magenta
+Cian
+Beige
+Rosado
+Verde Oscuro
+Aceituna
+Amarillo Palido
+Fucsia
+Mostaza
+Ocre
+Trullo
+Malva
+Purpura Oscuro
+Verde Lima
+Verde Claro
+Ciruela
+Azul Claro
+Melocoton
+Violeta
